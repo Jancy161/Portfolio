@@ -1,6 +1,6 @@
 #  Personal Portfolio Website
 
-This is a fully responsive and interactive portfolio website created to showcase my skills, projects, internship experience, and academic background.
+This is a fully responsive and interactive portfolio website.
 
 ## Features
 
